@@ -30,6 +30,7 @@ Lista de países e população utilizando React Hooks desenvolvidos no bootcamp 
 - **[Json](https://www.w3schools.com/js/js_json_intro.asp)**
 - **[Materialize-css](https://materializecss.com/)**-
 - **[ES6+](https://www.w3schools.com/Js/js_es6.asp)**
+- **[NodeJS](https://nodejs.org/en/)**
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=hackingcarreira_wmc-github-gllemos)**
 
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
